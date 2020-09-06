@@ -1,1 +1,1 @@
-cowsay -f eyes sjsjjsjd | lolcat
+cowsay -f eyes jithu | lolcat
